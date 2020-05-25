@@ -1,0 +1,9 @@
+@import url(./__button/header__button.css);
+@import url(./__logo/header__logo.css);
+
+.header {
+  height: 40px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}

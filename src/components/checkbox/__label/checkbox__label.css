@@ -1,0 +1,7 @@
+@import url(./_blue/checkbox__label_blue.css);
+@import url(./_red/checkbox__label_red.css);
+
+.checkbox__label {
+    margin-right: 10px;
+    color: white;
+}

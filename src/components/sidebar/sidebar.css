@@ -1,0 +1,14 @@
+@import url(./__list/sidebar__list.css);
+@import url(./__list-elem/sidebar__list-elem.css);
+@import url(./__list-elem-icon/sidebar__list-elem-icon.css);
+
+
+.sidebar {
+    position: absolute;
+    background-color: white;
+    width: 200px;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}

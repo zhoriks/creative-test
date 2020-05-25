@@ -1,0 +1,6 @@
+.sidebar__list-elem {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+}
